@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="c3c3dbf2478a2d505d6c8fd4f16d43dd" extends="sys_metadata" label="EMS Traffic Status Code" max_length="40" name="sn_niem_em_ems_traffic_status_code" type="collection">
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element label="Value" max_length="40" name="value" type="string"/>
+    </element>
+</database>

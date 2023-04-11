@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2023-04-11 02:48:08</sys_created_on>
+        <sys_id>4cc593f6478a2d505d6c8fd4f16d4393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_niem_em_contact_role_code_type.sn_niem_em.admin</sys_name>
+        <sys_package display_value="NIEM Emergency management" source="sn_niem_em">b969363e47862d505d6c8fd4f16d436d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Emergency management">b969363e47862d505d6c8fd4f16d436d</sys_scope>
+        <sys_security_acl display_value="sn_niem_em_contact_role_code_type">c4c593f6478a2d505d6c8fd4f16d4390</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4cc593f6478a2d505d6c8fd4f16d4393</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2023-04-11 02:48:08</sys_updated_on>
+        <sys_user_role display_value="sn_niem_em.admin" name="sn_niem_em.admin">8cd35ff2478a2d505d6c8fd4f16d43e5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
