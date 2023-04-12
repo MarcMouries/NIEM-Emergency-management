@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="89d7d3ba478a2d505d6c8fd4f16d439d" extends="sys_metadata" label="Notification Status Code Type" max_length="40" name="sn_niem_em_notification_status_code_type" type="collection">
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element label="Value" max_length="40" name="value" type="string"/>
+    </element>
+</database>
